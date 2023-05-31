@@ -15,13 +15,6 @@ The app is built using pure PHP, without the use of any frameworks, and employs 
 
 **Server :** PHP, MySQL
 
-## Sneak Peek of Site
-![Login](public/img/introduction/homepage.png)
-![Login](public/img/introduction/login.png)
-![Login](public/img/introduction/products.png)
-![Login](public/img/introduction/product.png)
-![Login](public/img/introduction/news.png)
-
 ## Installation
 * Install XAMPP 8.1.12
 * Start Apache & MySQL
